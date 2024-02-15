@@ -2,3 +2,8 @@
 
 print(123) #comentando na frente da linha
 #cometario abaixo da linha
+
+"""outra 
+    forma
+    de comentario em python
+"""
